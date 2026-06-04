@@ -6,8 +6,8 @@ Este repositório contém os entregáveis para a sprint de Gestão Ágil de Proj
 
 *   `canvas-url.txt`: Contém o link público para o board do Miro onde foi realizada a facilitação da **Lean Inception** e a montagem do **MVP Canvas**.
 *   `-backlog.md`: Contendo a hierarquia completa de itens (Épicos, Features e Histórias de Usuário) planejada para o produto de forma emergente, além do *Definition of Ready (DoR)* e *Definition of Done (DoD) e Detalhamento das histórias selecionadas para a **Sprint 1**, incluindo descrições, estimativas em Story Points, critérios de aceitação refinados (BDD) e requisitos não funcionais.
-*   `wireframes/`: Diretório contendo as capturas de tela dos wireframes desenvolvidos no Figma para validar o fluxo principal das histórias da Sprint 1.
-*   `video-showcase.txt` (ou arquivo de vídeo na raiz): Link/vídeo de apresentação (showcase) de 2 a 4 minutos expondo a entrega completa.
+*   `figma.txt`: Arquivo contendo o link para o protótipo no Figma para validar o fluxo principal das histórias da Sprint 1.
+*   `video-showcase.txt`: Link/vídeo de apresentação (showcase) de 2 a 4 minutos expondo a entrega completa.
 
 ---
 
